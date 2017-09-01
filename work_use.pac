@@ -743,6 +743,7 @@ function FindProxyForURL(url, host) {
 'shitaotv.org':1,
 'shkspr.mobi':1,
 'shodanhq.com':1,
+'shopcolumbiagorgeoutlets.com':1,
 'shopping.com':1,
 'shutterstock.com':1,
 'sinchew.com.my':1,
