@@ -501,6 +501,7 @@ function FindProxyForURL(url, host) {
 'lvv2.com':1,
 'mail-archive.com':1,
 'malaysiakini.com':1,
+'mallfinder.com':1,
 'marc.info':1,
 'marco.org':1,
 'markmail.org':1,
