@@ -248,6 +248,7 @@ function FindProxyForURL(url, host) {
 'fapdu.com':1,
 'fastly.net':1,
 'faststone.org':1,
+'fatwallet.com':1,
 'favstar.fm':1,
 'fb.com':1,
 'fb.me':1,
