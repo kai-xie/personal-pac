@@ -402,6 +402,7 @@ function FindProxyForURL(url, host) {
 'ibtimes.com':1,
 'icerocket.com':1,
 'icij.org':1,
+'.idcquan.com':1,
 'idemocracy.asia':1,
 'ift.tt':1,
 'ifttt.com':1,
