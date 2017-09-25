@@ -318,6 +318,7 @@ function FindProxyForURL(url, host) {
 'getlantern.org':1,
 'getpocket.com':1,
 'getvpn.ustclug.org':1,
+'gfw.press':1,
 'ggpht.com':1,
 'ggssl.com':1,
 'ghostery.com':1,
