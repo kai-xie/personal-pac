@@ -42,6 +42,7 @@ function FindProxyForURL(url, host) {
 'amazon.com':1,
 'amazon.cn':1,
 'amnesty.org':1,
+'anaconda.com':1,
 'android.com':1,
 'angularjs.org':1,
 'anobii.com':1,
