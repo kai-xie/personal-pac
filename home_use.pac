@@ -254,6 +254,7 @@ function FindProxyForURL(url, host) {
 'facebook.com':1,
 'facebook.net':1,
 'fakku.net':1,
+'falafel.com':1,
 'fanqianghou.com':1,
 'fapdu.com':1,
 'fastly.net':1,
