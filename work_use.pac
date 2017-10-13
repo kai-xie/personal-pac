@@ -149,6 +149,7 @@ function FindProxyForURL(url, host) {
 'chromeexperiments.com':1,
 'chromium.org':1,
 'chubun.com':1,
+'citizenpath.com':1,
 'cjb.net':1,
 'ck101.com':1,
 'cloudflare.com':1,
