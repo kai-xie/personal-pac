@@ -809,6 +809,7 @@ function FindProxyForURL(url, host) {
 'tdesktop.com':1,
 'telegram.org':1,
 'tenacy.com':1,
+'tensorflow.org':1,
 'test.ustc.edu.cn':1,
 'theappleblog.com':1,
 'thebodyshop-usa.com':1,
