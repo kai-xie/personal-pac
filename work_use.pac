@@ -766,6 +766,7 @@ function FindProxyForURL(url, host) {
 'slack.com':1,
 'slideshare.net':1,
 'slutload.com':1,
+'smartisan.com':1,
 'snapchat.com':1,
 'sndcdn.com':1,
 'softether.org':1,
