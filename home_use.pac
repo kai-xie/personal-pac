@@ -1023,8 +1023,9 @@ function FindProxyForURL(url, host) {
 'zeutch.com':1,
 'zhuichaguoji.org':1,
 'ziddu.com':1,
-'zinio.com':1,
+'zinio.com':1,1
 'zlib.net':1,
+'zlix.tech':1,
 'zoho.com':1,
 'zonaeuropa.com':1,
 'zonble.net':1,
