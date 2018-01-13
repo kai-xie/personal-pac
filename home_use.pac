@@ -1,29 +1,3 @@
-var FindProxyForURL = function(init, profiles) {
-    return function(url, host) {
-        "use strict";
-        var result = init, scheme = url.substr(0, url.indexOf(":"));
-        do {
-            result = profiles[result];
-            if (typeof result === "function") result = result(url, host, scheme);
-        } while (typeof result !== "string" || result.charCodeAt(0) === 43);
-        return result;
-    };
-}("+ustc_home_use", {
-    "+ustc_home_use": function() {
-        ;
-var FindProxyForURL = function(init, profiles) {
-    return function(url, host) {
-        "use strict";
-        var result = init, scheme = url.substr(0, url.indexOf(":"));
-        do {
-            result = profiles[result];
-            if (typeof result === "function") result = result(url, host, scheme);
-        } while (typeof result !== "string" || result.charCodeAt(0) === 43);
-        return result;
-    };
-}("+USTCAF", {
-    "+USTCAF": function() {
-        ;
 function FindProxyForURL(url, host) {
 
      var proxyList = {
@@ -1070,13 +1044,3 @@ function FindProxyForURL(url, host) {
 
 }
 
-
-/* End of PAC */;
-        return FindProxyForURL;
-    }.call(this)
-});
-
-/* End of PAC */;
-        return FindProxyForURL;
-    }.call(this)
-});
