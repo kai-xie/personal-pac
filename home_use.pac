@@ -673,6 +673,7 @@ function FindProxyForURL(url, host) {
 'qiwen.lu':1,
 'qoos.com':1,
 'qtrac.eu':1,
+'quora.com':1,
 'qxbbs.org':1,
 'radioaustralia.net.au':1,
 'radiotime.com':1,
