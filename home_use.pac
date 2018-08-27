@@ -59,6 +59,7 @@ function FindProxyForURL(url, host) {
 'backtotiananmen.com':1,
 'badassjs.com':1,
 'badoo.com':1,
+'bazel.build':1,
 'bbc.com':1,
 'bbc.in':1,
 'bbcchinese.com':1,
