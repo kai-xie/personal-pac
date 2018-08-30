@@ -877,6 +877,7 @@ function FindProxyForURL(url, host) {
 'urlparser.com':1,
 'us':1,
 'us.to':1,
+'us-somesky.rhcloud.com':1,
 'usa.gov':1,
 'usgs.gov':1,
 'ustream.tv':1,
