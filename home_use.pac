@@ -867,6 +867,7 @@ function FindProxyForURL(url, host) {
 'typepad.com':1,
 'uderzo.it':1,
 'udn.com':1,
+'ufmg.br':1,
 'ugo.com':1,
 'uhrp.org':1,
 'uighurbiz.net':1,
