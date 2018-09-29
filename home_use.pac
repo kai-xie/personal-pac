@@ -123,6 +123,7 @@ function FindProxyForURL(url, host) {
 'change.org':1,
 'changp.com':1,
 'chaturbate.com':1,
+'chenghuavideo.be':1,
 'chinaaid.net':1,
 'chinadigitaltimes.net':1,
 'chinese.net.au':1,
