@@ -764,6 +764,7 @@ function FindProxyForURL(url, host) {
 'sparrowmailapp.com':1,
 'spotify.com':1,
 'squarespace.com':1,
+'ssl-images-amazon.com':1,
 'sstatic.net':1,
 'stackoverflow.com':1,
 'starp2p.com':1,
