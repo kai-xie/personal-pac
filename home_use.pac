@@ -213,6 +213,7 @@ function FindProxyForURL(url, host) {
 'edoors.com':1,
 'edubridge.com':1,
 'edx.org':1,
+'enflame.cn':1,
 'embr.in':1,
 'emory.edu':1,
 'engadget.com':1,
