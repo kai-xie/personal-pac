@@ -787,6 +787,7 @@ function FindProxyForURL(url, host) {
 'taragana.com':1,
 'target.com':1,
 'tdesktop.com':1,
+'teamviewer.com':1,
 'telegram.org':1,
 'tenacy.com':1,
 'tensorflow.org':1,
