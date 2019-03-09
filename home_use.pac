@@ -315,6 +315,7 @@ function FindProxyForURL(url, host) {
 'google.com':1,
 'google.de':1,
 'googleadservices.com':1,
+'googleapis.cn':1,
 'googleapis.com':1,
 'googleartproject.com':1,
 'googlecode.com':1,
